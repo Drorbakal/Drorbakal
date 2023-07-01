@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 , i'm Dror Bakal
 
 # 🙋‍♂️About Me :
 - 🎓 I’m currently 2rd year Computer Science student.
