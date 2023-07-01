@@ -1,11 +1,11 @@
 # Hi there 👋
 
 # 🙋‍♂️About Me :
-🎓 I’m currently 2rd year Computer Science student.
+-🎓 I’m currently 2rd year Computer Science student.
 
-💪 Ambitious, self-motivated, hardworking person and a great team player.
+-💪 Ambitious, self-motivated, hardworking person and a great team player.
 
-📫 How to reach me Drorbakal17@gmail.com 
+-📫 How to reach me Drorbakal17@gmail.com 
 
 <!--
 **Drorbakal/Drorbakal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
