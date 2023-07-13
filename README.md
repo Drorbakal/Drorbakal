@@ -1,7 +1,7 @@
 # Hi there 👋 , i'm Dror Bakal
 
 # 🙋‍♂️About Me :
-- 🎓 I’m currently 2rd year Computer Science student.
+- 🎓 I’m currently 2nd year Computer Science student.
 
 - 💪 Ambitious, self-motivated, hardworking person and a great team player.
 
