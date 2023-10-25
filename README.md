@@ -1,11 +1,11 @@
 # Hi there 👋 , i'm Dror Bakal
 
 # 🙋‍♂️About Me :
-- 🎓 I’m currently 3rd year Computer Science student at *HIT - Holon Institute Of Technology*.
+- 🎓 I’m currently 3rd year Computer Science student at **HIT - Holon Institute Of Technology**.
 
 - 💪 Ambitious, self-motivated, hardworking person and a great team player.
 
-- 📫 How to reach me Drorbakal17@gmail.com 
+- 📫 How to reach me **Drorbakal17@gmail.com** .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
